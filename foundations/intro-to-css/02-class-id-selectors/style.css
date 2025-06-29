@@ -1,0 +1,17 @@
+.colour{
+    background-color: rgb(206, 45, 16);
+    font-family: Verdana, Geneva, Tahoma, sans-serif,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fontsize1{
+    font-size: 36px;
+}
+.fontsize2{
+    font-size: 24px;
+}
+#colour1{
+    background-color: green;
+}
+.fontcolor1{
+    color: blue;
+}
